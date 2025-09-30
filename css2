@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=ieVl2ZhZI2eCN5jzbjEETS9weq8-59CxCis4WON3VwhUzuB490p9HOq8_4I0&skey=9986ecffddb755ab&v=v31) format('woff2');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=ieVl2ZhZI2eCN5jzbjEETS9weq8-59CxCis4WON3VwhUzuB490p9HOq8_4I0&skey=9986ecffddb755ab&v=v31) format('woff2');
+}
